@@ -1,0 +1,7 @@
+  Op  | RS  | RT  |        IMM     |
+100011  10001  10010  0000000000001101
+Instruction | Opcode | RegWrite | RegDst | ALUSrc | Branch | MemWrite | MemtoReg | ALUOp | Jump
+  SUBI       100011       1         0       1        0         0          0          00     0   
+
+
+
