@@ -590,5 +590,6 @@ public class Leitora {
         PrintWriter out = new PrintWriter(fr);
         out.print(tabelas);
         out.flush();
+        System.out.println("Program has finished");
     }
 }
